@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/5g2M9W2f/Modern-Tech-Portfolio-Banner-with-Growth-Analytics-1.png" alt="Modern Tech Portfolio Banner with Growth Analytics (1)" border="0">
+<img src="https://i.ibb.co.com/35MD2523/Modern-Tech-Portfolio-Banner-with-Growth-Analytics.png" alt="Modern Tech Portfolio Banner with Growth Analytics" border="0">
 
 <h3 align="center">Professional Web Designer & Developer. WordPress Expert. I help businesses and content creators create beautiful and functional websites.</h3>
 
