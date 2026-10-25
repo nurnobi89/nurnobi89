@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co.com/5g2M9W2f/Modern-Tech-Portfolio-Banner-with-Growth-Analytics-1.png" alt="web designer WordPress, developer" border="0">
+<img src="https://i.ibb.co.com/5g2M9W2f/Modern-Tech-Portfolio-Banner-with-Growth-Analytics-1.png" alt="Modern Tech Portfolio Banner with Growth Analytics (1)" border="0">
+
 <h3 align="center">Professional Web Designer & Developer. WordPress Expert. I help businesses and content creators create beautiful and functional websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnobi89&label=Profile%20views&color=0e75b6&style=flat" alt="nurnobi89" /> </p>
