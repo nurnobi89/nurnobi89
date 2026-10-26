@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/tTYgBYcm/Professional-Word-Press-Portfolio-Banner.png" alt="web designer, WordPress , developer " border="0">
+<img src="https://i.ibb.co.com/k6ySgNP5/Purple-Neon-Portfolio-Hero-Banner.png" alt="web designer, WordPress , developer " border="0">
 
 <h3 align="center">Professional Web Designer & Developer. WordPress Expert. I help businesses and content creators create beautiful and functional websites.</h3>
 
